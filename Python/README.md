@@ -1,11 +1,38 @@
-Python Data Analysis Project
+# Python Data Analysis Project
 
-This section contains Python-based data analysis work.
+## Overview
+This section contains Python-based data analysis work performed using Google Colab.
 
-Skills used:
-- Data cleaning using Pandas
+---
+
+## Topics Covered
+- Python Basics (Variables, Loops, Functions)
+- Data Analysis using Pandas
+- Data Cleaning (missing values, duplicates)
 - Exploratory Data Analysis (EDA)
-- Data visualization using Matplotlib
+- Data Visualization using Matplotlib
 
-Goal:
-To analyze datasets and extract meaningful business insights using Python.
+---
+
+## Projects
+- Student Performance Analysis
+- Sales/EDA Practice Projects
+- Data Cleaning & Visualization Exercises
+
+---
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+---
+
+## Files
+- .ipynb notebooks uploaded from Google Colab
+
+---
+
+## Goal
+To perform end-to-end data analysis using Python and extract business insights from datasets.
